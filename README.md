@@ -1,7 +1,6 @@
 # Student-Database-Management-System
 Student Database Management System Using Python and CSV File Handling.
 
-# Student Database Management System
 
 A production-ready, menu-driven CLI application designed to track, store, and manage student academic profiles with built-in input verification layers and persistent storage.
 
